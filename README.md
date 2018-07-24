@@ -1,4 +1,4 @@
-# Art-Gallery
+# Art Gallery
 
 A student that completes this project shows that they can:
 
