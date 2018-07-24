@@ -13,7 +13,7 @@ A student that completes this project shows that they can:
 
 Art Gallery is an app that shows images of paintings and allows them to like a painting if they choose. Here is an example of the finished application:
 
-[//]: ![](https://user-images.githubusercontent.com/16965587/43025789-56c5fa24-8c30-11e8-999e-abec67fcad88.gif) 
+![](https://user-images.githubusercontent.com/16965587/43025789-56c5fa24-8c30-11e8-999e-abec67fcad88.gif) 
 
 ## Instructions
 
