@@ -35,7 +35,7 @@ You will a single model object for this project. It should represent a single pa
 
 This model controller is relatively straightforward. What you need to do is have a data source for the table view, a function that will load the paintings into the data source, and a function to toggle a painting `isLiked` property.
 
-1. Create a new Swift file called "PaintingControler.swift"
+1. Create a new Swift file called "PaintingControler.swift" and create a class called  `PaintingController` in it.
 2. Add a variable called `paintings` of type `[Painting]` and give it an initial value of an empty array
 3. There are 12 images in the assets folder. Make a function called `loadPaintingsFromAssets()`. The goal of this method is to take the 12 images from your assets folder and initialize a `Painting` with each of them, as you need a `UIImage` to use the  `Painting` initializer.
     - Create a for-in loop that loops 12 times using a range of numbers. (`1...12`).
